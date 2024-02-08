@@ -1,4 +1,4 @@
-package services
+package map
 
 import de.topobyte.osm4j.core.access.OsmIterator
 import de.topobyte.osm4j.core.model.iface.EntityType

@@ -1,4 +1,4 @@
-# Infos
+# Map service
 
 * [OpenStreetMap Ljubljana OSM data](https://www.openstreetmap.org/export#map=17/46.04161/14.50680)
 * [Active library for dealing with OSM files](https://jaryard.com/projects/osm4j/tutorial)
@@ -14,3 +14,7 @@
 * [Open-Elevation](https://wiki.openstreetmap.org/wiki/Open-Elevation)
 
 * [Trenutno stanje na cesti](https://www.promet.si/sl/vkljucki-razvijalci)
+
+# Planning service
+
+* [Drools](https://www.drools.org/learn/video.html)
