@@ -14,6 +14,9 @@ repositories {
         setUrl("http://mvn.slimjars.com")
         isAllowInsecureProtocol = true
     }
+    maven {
+        setUrl("https://jitpack.io")
+    }
     mavenCentral()
 }
 

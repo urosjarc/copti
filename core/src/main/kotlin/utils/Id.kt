@@ -1,4 +1,4 @@
 package utils
 
 @JvmInline
-value class Id<T>(val value: Long)
+value class Id<T>(val value: Long? = null)

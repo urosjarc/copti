@@ -9,6 +9,11 @@ plugins {
 
 dependencies {
     this.implementation(this.project(":core"))
+
+    /**
+     * Database
+     */
+
     /**
      * Optaplanner
      */
