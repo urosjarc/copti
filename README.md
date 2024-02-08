@@ -10,3 +10,7 @@
   * [Relation](https://wiki.openstreetmap.org/wiki/Relation)
   * [Way]()
   * [Node]()
+
+* [Open-Elevation](https://wiki.openstreetmap.org/wiki/Open-Elevation)
+
+* [Trenutno stanje na cesti](https://www.promet.si/sl/vkljucki-razvijalci)

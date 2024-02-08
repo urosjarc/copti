@@ -26,8 +26,8 @@ fetch("http://localhost:8080/lines").then(res => {
     })
 })
 
-fetch("http://localhost:8080/points").then(res => {
-    // res.json().then(points => {
-    //     for (point of points) L.marker(point).addTo(map);
-    // })
+fetch("http://localhost:8080/posts").then(res => {
+    res.json().then(points => {
+        for (point of points) L.marker(point).addTo(map);
+    })
 })
